@@ -13,7 +13,7 @@
 
 <!-- #navigation container -->
 
-<nav class="bg-white border-gray-200 mt-6 px-2 sm:px-4 py-2.5 rounded ">
+<nav class="bg-white border-gray-200 fixed w-full top-0 p-4 px-2 sm:px-4 rounded ">
     <div class="container p-2 flex flex-wrap items-center justify-between mx-auto">
       <a href="/" class="flex items-center">
           <img src="https://flowbite.com/docs/images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Flowbite Logo" />
