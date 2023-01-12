@@ -1,5 +1,5 @@
 <!----------services Section----------->
-<section id="#services" class="bg-white lg:mt-6 mt-52 font-Poppins">
+<section id="#services" class="bg-white lg:mt-6 mt-60 font-Poppins">
     <div class="py-8 px-4  mx-auto max-w-screen-xl sm:py-16 lg:px-6">
         <div class=" text-center mb-8 lg:mb-16">
             <h2 class="mb-4 lg:text-3xl text-2xl tracking-tight font-bold text-gray-700 ">Contact Us</h2>
